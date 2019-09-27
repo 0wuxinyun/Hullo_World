@@ -5,6 +5,9 @@
 >block1
 >>block2
 
+- [ ] tick
+- [x] non tick
+
 *italy*
 **blod**
 ***italy+blod***
@@ -14,11 +17,17 @@
 - 1
 
 [more details](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings)
-
-![pic](https://www.google.com/search?q=github&rlz=1C5CHFA_enSG830SG831&sxsrf=ACYBGNRWIGURmGrQsqLTzI4U-1oFB_lOng:1569603887004&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiev_2QvvHkAhVMrY8KHa_kCeoQ_AUIEigB&biw=1280&bih=721&dpr=2#imgrc=XJphM0BLqnHWkM)
-
+[more details 2.0](https://guides.github.com/features/mastering-markdown/)
 
 
+![pic](url)
+
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 `
 print("code")
 `
