@@ -9,9 +9,9 @@
 **blod**
 ***italy+blod***
 
-*1
-+1
--1
+* 1
++ 1
+- 1
 
 [more details](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings)
 
